@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h2>Welcome to Dribble</h2>
+
+  <p>To filter results, please sign in or create, an <br>account.</p>
+
+  <button class="google-btn">
+    <img src="images/google_icon.png" class="google-icon">
+    <span class="google-text">Continue with Google</span>
+  </button>
+
+  <p class="p-sec">or</p>
+
+  <input type="email" placeholder="Enter email address" class="input-email">
+
+  <button class="continue-btn">Continue</button>
+
+  <p class="p-sec">
+    By continuing, you agree to our
+    <a href="https://svcg.education.gov.ng/">Terms</a>
+    and 
+    <a href="https://svcg.education.gov.ng/">Privacy Policy</a>
+  </p>
+
+  <p class="p-sec">
+    Already have an account?
+    <a href="https://svcg.education.gov.ng/">Sign in</a>
+  </p>
+</body>
+</html>
